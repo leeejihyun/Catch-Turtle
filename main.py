@@ -1,7 +1,6 @@
 import turtle as t
 import random
 import time
-import os
 
 def message(str_up, str_down): # 위아래로 메시지 출력
     player.goto(0,100)
@@ -100,4 +99,4 @@ screen.listen() # 이 명령어를 실행시켜야 키 입력모드가 실행되
 
 message("Catch Turtle", "[Space]") # 게임 시작하기 전 첫 화면으로 "Catch Turtle"과 "[Space]"를 출력
 
-os.system('pause')
+input()
