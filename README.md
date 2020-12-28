@@ -9,6 +9,17 @@ _자세한 내용은 https://leeejihyun.tistory.com/3 을 참고하세요._
 
 <center><img src="main.gif" width="500" height="500"></center>  
 
+## 실행 방법
+```sh
+git clone https://github.com/leeejihyun/Catch-Turtle.git
+```
+```sh
+cd Catch-Turtle
+```
+```sh
+python main.py
+```
+
 ## 사용 예제
 https://tv.kakao.com/v/414626047  
 
