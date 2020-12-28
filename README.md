@@ -5,6 +5,8 @@
 거북이가 나타나는 방향과 키보드 키의 방향이 일치하면 1점을 얻는다.  
 제한 시간은 20초이고, 거북이는 0.1초에서 1초 사이 랜덤으로 나타난다.  
 
+_자세한 내용은 https://leeejihyun.tistory.com/3 을 참고하세요._
+
 <center><img src="main.gif" width="500" height="500"></center>  
 
 ## 사용 예제
