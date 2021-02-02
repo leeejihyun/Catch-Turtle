@@ -20,8 +20,5 @@ cd Catch-Turtle
 python main.py
 ```
 
-## 사용 예제
-https://tv.kakao.com/v/414626047  
-
 ## 정보
 이지현 leeejihyun@naver.com  
